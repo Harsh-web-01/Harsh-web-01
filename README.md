@@ -1,6 +1,14 @@
 <h1>Cloud Engineering | AWS | DevOps  </h1>
-<p>Building scalable cloud infrastructure, automating deployments with Terraform and CI/CD, and developing AI-powered applications using AWS, Docker, Kubernetes, and LangChain.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>
+   Currently pursuing cloud computing with a focus on Amazon Web Services (AWS), aiming to enhance my expertise in scalable infrastructure, cloud security, and cloud-native application development. Building scalable cloud infrastructure, automating deployments with Terraform and CI/CD, and developing AI-powered applications using AWS, Docker, Kubernetes, and LangChain.
+
+
+I have successfully earned the AWS certification and Oracle Cloud Certification and currently looking for opportunities in cloud.
+
+
+Alongside my cloud journey, I have been actively building a strong foundation in AI by completing LangChain and working on practical implementations. Currently, I am continuously exploring new AI concepts and tools to deepen my understanding of how intelligent systems can reason and act.
+</p>
+<h2>🚀 TECH STACK</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
