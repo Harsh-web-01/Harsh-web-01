@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Currently pursuing cloud computing with a focus on Amazon Web Services (AWS), aiming to enhance my expertise in scalable infrastructure, cloud security, and cloud-native application development. Building scalable cloud infrastructure, automating deployments with Terraform and CI/CD, and developing AI-powered applications using AWS, Docker, Kubernetes, and LangChain.<br><br>I have successfully earned the AWS certification and Oracle Cloud Certification and currently looking for opportunities in cloud.<br><br>Alongside my cloud journey, I have been actively building a strong foundation in AI by completing LangChain and working on practical implementations. Currently, I am continuously exploring new AI concepts and tools to deepen my understanding of how intelligent systems can reason and act.
 
 
